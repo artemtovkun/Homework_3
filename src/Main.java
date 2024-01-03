@@ -114,7 +114,7 @@ public class Main {
         float oneYearIncreasedCurrentSalaryKristina = increasedCurrentSalaryKristina * monthsForOneYear;
         float incomeDifferenceOneYearKristina = oneYearIncreasedCurrentSalaryKristina - oneYearCurrentSalaryKristina;
         System.out.println ("Кристина получала ежемесячную зарплату = " +currentSalaryKristina+ " рублей. После 3 - х лет работы, повышение составило 10%. Теперь Кристина получает ежемесячно " +increasedCurrentSalaryKristina+ " рублей. Ежемесячный доход вырос на " +allowanceCurrentSalaryKristina+ " рублей");
-        System.out.println ("Годовой доход у Кристины до повышения был " +oneYearCurrentSalaryKristina+ " рублей, а стал " +oneYearIncreasedCurrentSalaryKristina+ " рублей. Годовой доход вырос на " +incomeDifferenceOneYearKristina+ " рублей");
+        System.out.println ("Годовой доход у Кристины до повышения был " +oneYearCurrentSalaryKristina+ " рублей, а стал " +oneYearIncreasedCurrentSalaryKristina+ " рублей. Годовой доход вырос на " +incomeDifferenceOneYearKristina+ " рублей!");
 
 
 
